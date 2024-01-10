@@ -11,6 +11,8 @@
 <p>DB_USERNAME=root</p>
 <p>DB_PASSWORD=</p>
 <p>Buat database di MySQL dengan nama "tugas2"</p>
+<p>Atau bisa Download SQL Nya Disini</p>
+<p>https://drive.google.com/file/d/14IDGsvW_NhuFYHElyrfpGd4mVDWTlqPx/view?usp=sharing</p>
 <p>Setelah itu ketik ini juga</p>
 <p>" php artisan key:generate "</p>
 <p>" php artisan migrate --seed "</p>
