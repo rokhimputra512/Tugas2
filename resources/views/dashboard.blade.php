@@ -198,52 +198,52 @@
                                     <form id="tambah" method="POST" action="/api/karyawan-tambah">
                                             @csrf                                           
                                             <div class="form-group">
-                                                <label for="editNIP">NIP :</label>
-                                                <input type="text" class="form-control" name="NIP" id="editNIP">
+                                                <label for="tambahNIP">NIP :</label>
+                                                <input type="text" class="form-control" name="NIP" id="tambahNIP">
                                             </div>
                                             <div class="form-group">
-                                                <label for="editNIK">NIK :</label>
-                                                <input type="text" class="form-control" name="NIK" id="editNIK">
+                                                <label for="tambahNIK">NIK :</label>
+                                                <input type="text" class="form-control" name="NIK" id="tambahNIK">
                                             </div>
                                             <div class="form-group">
-                                                <label for="editNama">Nama Lengkap :</label>
-                                                <input type="text" class="form-control" name="nama_lengkap" id="editNama">
+                                                <label for="tambahNama">Nama Lengkap :</label>
+                                                <input type="text" class="form-control" name="nama_lengkap" id="tambahNama">
                                             </div>
                                             <div class="form-group">
-                                                <label for="edittempatlahir">Tempat Lahir :</label>
-                                                <input type="text" class="form-control" name="tempat_lahir" id="edittempatlahir">
+                                                <label for="tambahtempatlahir">Tempat Lahir :</label>
+                                                <input type="text" class="form-control" name="tempat_lahir" id="tambahtempatlahir">
                                             </div>
                                             <div class="form-group">
-                                                <label for="edittanggallahir">Tanggal Lahir :</label>
-                                                <input type="date" class="form-control" name="tanggal_lahir" id="edittanggallahir">
+                                                <label for="tambahtanggallahir">Tanggal Lahir :</label>
+                                                <input type="date" class="form-control" name="tanggal_lahir" id="tambahtanggallahir">
                                             </div>
                                             <div class="form-group">
-                                                <label for="editkelamin">Jenis Kelamin :</label>
-                                                <select class="form-control" name="jenis_kelamin" id="editkaryawan">
+                                                <label for="tambahkelamin">Jenis Kelamin :</label>
+                                                <select class="form-control" name="jenis_kelamin" id="tambahkelamin">
                                                     <option value=""></option>
                                                     <option value="Laki - Laki">Laki - Laki</option>
                                                     <option value="Perempuan">Perempuan</option>
                                                 </select>
                                             </div>
                                             <div class="form-group">
-                                                <label for="editalamat">Alamat :</label>
-                                                <input type="text" class="form-control" name="alamat" id="editalamat">
+                                                <label for="tambahalamat">Alamat :</label>
+                                                <input type="text" class="form-control" name="alamat" id="tambahalamat">
                                             </div>
                                             <div class="form-group">
-                                                <label for="edittelp">Nomor handphone :</label>
-                                                <input type="text" class="form-control" name="no_telp" id="edittelp">
+                                                <label for="tambahtelp">Nomor handphone :</label>
+                                                <input type="text" class="form-control" name="no_telp" id="tambahtelp">
                                             </div>
                                             <div class="form-group">
-                                                <label for="editemail">Email :</label>
-                                                <input type="text" class="form-control" name="email" id="editemail">
+                                                <label for="tambahemail">Email :</label>
+                                                <input type="text" class="form-control" name="email" id="tambahemail">
                                             </div>
                                             <div class="form-group">
-                                                <label for="edithobi">Hobi :</label>
-                                                <input type="text" class="form-control"  name="hobi" id="edithobi">
+                                                <label for="tambahhobi">Hobi :</label>
+                                                <input type="text" class="form-control"  name="hobi" id="tambahhobi">
                                             </div>
                                             <div class="form-group">
-                                                <label for="editnikah">Status Pernikahan :</label>
-                                                <select class="form-control" name="status_pernikahan" id="editkaryawan">
+                                                <label for="tambahnikah">Status Pernikahan :</label>
+                                                <select class="form-control" name="status_pernikahan" id="tambahnikah">
                                                     <option value=""></option>
                                                     <option value="Belum Menikah">Belum Menikah</option>
                                                     <option value="Menikah">Menikah</option>
@@ -251,12 +251,12 @@
                                                 </select>
                                             </div>
                                             <div class="form-group">
-                                                <label for="editjabatan">Jabatan :</label>
-                                                <input type="text" class="form-control" name="jabatan" id="editjabatan">
+                                                <label for="tambahjabatan">Jabatan :</label>
+                                                <input type="text" class="form-control" name="jabatan" id="tambahjabatan">
                                             </div>
                                             <div class="form-group">
-                                                <label for="editkaryawan">Status Karyawan:</label>
-                                                <select class="form-control" name="status_pegawai" id="editkaryawan">
+                                                <label for="tambahkaryawan">Status Karyawan:</label>
+                                                <select class="form-control" name="status_pegawai" id="tambahkaryawan">
                                                     <option value=""></option>
                                                     <option value="Tetap">Tetap</option>
                                                     <option value="Kontrak">Kontrak</option>
