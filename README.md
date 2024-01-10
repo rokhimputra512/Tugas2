@@ -1,3 +1,4 @@
+<h3>Cara Menginstall atau setup Code Laravel ini</h3>
 <p>Pertama cuma CMD di C:\xampp\htdocs</p>
 <p>Kemudian ketik " git clone https://github.com/rokhimputra512/Tugas2.git "</p>
 <p>Kemudian ketik " composer update "</p>
