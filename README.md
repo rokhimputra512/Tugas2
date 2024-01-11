@@ -19,3 +19,5 @@
 <p>" php artisan key:generate "</p>
 <p>" php artisan migrate --seed "</p>
 <p>" php artisan serve "</p>
+<p>Lalu buka browser buka link ini</p>
+<p>http://127.0.0.1:8000/</p>
