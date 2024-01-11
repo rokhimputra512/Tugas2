@@ -1,7 +1,7 @@
 <h3>Cara Menginstall atau setup Code Laravel ini</h3>
 <p>Pertama-tama buka folder di C:\xampp\htdocs</p>
 <p>Lalu extract file .zip ini di C:\xampp\htdocs</p>
-<p>Buka CMD di C:\xampp\htdocs\Tugas2_Pemograman_Web</p>
+<p>Buka CMD di C:\xampp\htdocs\Tugas2-main</p>
 <p>Kemudian ketik " composer update "</p>
 <p>Lalu ketik " cp .env.example .env "</p>
 <p>Ganti env nya sesuai dibawah ini :</p>
