@@ -1,6 +1,7 @@
 <h3>Cara Menginstall atau setup Code Laravel ini</h3>
-<p>Pertama cuma CMD di C:\xampp\htdocs</p>
-<p>Kemudian ketik " git clone https://github.com/rokhimputra512/Tugas2.git "</p>
+<p>Pertama-tama buka folder di C:\xampp\htdocs</p>
+<p>Lalu extract file .zip ini di C:\xampp\htdocs</p>
+<p>Buka CMD di C:\xampp\htdocs\Tugas2_Pemograman_Web</p>
 <p>Kemudian ketik " composer update "</p>
 <p>Lalu ketik " cp .env.example .env "</p>
 <p>Ganti env nya sesuai dibawah ini :</p>
@@ -13,7 +14,8 @@
 <p>Buat database di MySQL dengan nama "tugas2"</p>
 <p>Atau bisa Download SQL Nya Disini</p>
 <p>https://drive.google.com/file/d/14IDGsvW_NhuFYHElyrfpGd4mVDWTlqPx/view?usp=sharing</p>
-<p>Setelah itu ketik ini juga</p>
+<p>Setelah didownload kemudian diimport ke MySQL dengan nama "tugas2"</p>
+<p>Setelah itu ketik ini juga diterminal</p>
 <p>" php artisan key:generate "</p>
 <p>" php artisan migrate --seed "</p>
 <p>" php artisan serve "</p>
